@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "f01d2b85e3bfe1b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f90bf341774a1692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2925c4efe9affff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repositories/percorso-interdisciplinare/percorso-interdisciplinare.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51be3c6d70fff524",
+    "type": "split",
+    "children": [
+      {
+        "id": "97c0a137ed4c9ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe126c698c49458c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f026e2d141db4108",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5511c1bdb645f3c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b58d121680260507",
+    "type": "split",
+    "children": [
+      {
+        "id": "170f251ac2030018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b5f675936d02309",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "repositories/percorso-interdisciplinare/percorso-interdisciplinare.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b72a2fdaf7dee2c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "repositories/percorso-interdisciplinare/percorso-interdisciplinare.md"
+              }
+            }
+          },
+          {
+            "id": "81a8e6fc1f75e6f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "graph:Open graph view": true,
+      "omnisearch:Omnisearch": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true
+    }
+  },
+  "active": "2925c4efe9affff5",
+  "lastOpenFiles": [
+    "repositories/percorso-interdisciplinare/src/assets/show.svg",
+    "Untitled.md",
+    "repositories/percorso-interdisciplinare/percorso-interdisciplinare.md",
+    "notes/Risk management (UDA 14).md",
+    "notes/GDPR.md",
+    "notes/Scoop management (UDA 13).md",
+    "_attachments/excalidraw/section.md",
+    "repositories/percorso-interdisciplinare/src/components.php",
+    "repositories/percorso-interdisciplinare/src/database.php",
+    "repositories/percorso-interdisciplinare/src/index.php",
+    "repositories/percorso-interdisciplinare/src",
+    "_attachments/excalidraw/section-heading.md",
+    "_attachments/excalidraw/excalidraw-percorso-interdisciplinare",
+    "repositories/certificate-system/certification-system.md",
+    "_attachments/exildraw",
+    "_attachments",
+    "_template/template-magistri-note.md",
+    "_template/template-note.md",
+    "projects/diploma-party/Festa di diploma.md",
+    "projects/laptop-configuration/Configurating Arch Linux & Hyprland.md",
+    "projects/group-project-management/Piattaforma per la gestione sito scommesse.md",
+    "projects/laptop-configuration/PC Configuratio for Software Development and College.md",
+    "projects/laptop-configuration/Installing Arch Linux.md",
+    "projects/diploma-party",
+    "projects/group-project-management",
+    "projects/laptop-configuration",
+    "().md",
+    "projects/The Projects Index.md",
+    "notes/note.md",
+    "sample.md",
+    "_media/Untitled.md",
+    "notes/Untitled.md"
+  ]
+}

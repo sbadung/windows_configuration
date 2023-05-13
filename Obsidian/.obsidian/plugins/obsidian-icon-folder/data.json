@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 18,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasUserGroup",
+      "🤸",
+      "🎉",
+      "FabGit",
+      "FasBed"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "repositories": "FabGit",
+  "_template": "FasFile",
+  "notes": "FasPenNib",
+  "projects": "FasDiagramProject",
+  "work": "FasPeopleCarryBox",
+  "polimi": "FasGraduationCap",
+  "repositories/certificate-system": "FasCertificate",
+  "projects/laptop-configuration": "🖥",
+  "projects/group-project-management": "📷",
+  "projects/diploma-party": "🎉",
+  "_attachments": "FasFileImport",
+  "_attachments/excalidraw": "✏",
+  "repositories/percorso-interdisciplinare": "FasUserGroup"
+}

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "version": 2,
+  "console_title_template": "{{.UserName}}@{{.HostName}} in {{.PWD}}",
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "path",
+          "style": "plain",
+          "foreground": "p:light-blue",
+          "template": "{{ .Path }}  ",
+          "properties": {
+            "style": "full"
+          }
+        },
+        {
+          "type": "git",
+          "style": "powerline",
+          "foreground": "p:lilac",
+          "template": "{{ .HEAD }}{{ if or (.Working.Changed) (.Staging.Changed) }}{{ else }}<p:green> \uf00c</>{{ end }} {{ if .Working.Changed }}👻 {{ end }}{{ if .Staging.Changed }}<p:yellow>\ufb4e </>{{ end }}{{ if gt .StashCount 0}}🍥{{ end }} {{ if gt .Ahead 0}}<p:green> \uf0aa</>{{ end }}{{ if gt .Behind 0}}<p:red> \uf0ab</>{{ end}}",
+          "properties": {
+            "branch_icon": "\ufb2b ",
+            "fetch_stash_count": true,
+            "fetch_status": true
+          }
+        }
+      ],
+      "newline": true
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "root",
+          "style": "plain",
+          "foreground": "p:red",
+          "template": "\ufb80 "
+        },
+        {
+          "type": "text",
+          "style": "plain",
+          "foreground": "p:hotpink",
+          "template": "\uf553 "
+        }
+      ],
+      "newline": true
+    }
+  ],
+  "palette": {
+    "green": "#a6e22e",
+    "hotpink": "#f92672",
+    "light-blue": "#66d9ef",
+    "lilac": "#a289b1",
+    "red": "#e63d5b",
+    "yellow": "#ddbb88"
+  }
+}
