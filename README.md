@@ -181,6 +181,7 @@ clear
 Importare la configurazione: `Manage > Profile > Import` > [`VSCode/Default.code-profile`](VSCode/Default.code-profile)
 
 ## Configurazione Netbeans
+![netbeans-showcase](assets/netbeans.png)
 - Installare `JDK 8`
 - Installare `Netbeans 8.2`
 - Importare tema: `Tools` > `Plugins` > `Installed` > [`Netbeans/darcula.nbm`](Netbeans/darcula.nbm)
@@ -188,5 +189,5 @@ Importare la configurazione: `Manage > Profile > Import` > [`VSCode/Default.code
 - (Installare plugin: `Tools` > `Plugins` > `Installed` > `plugin.nbm`)
 
 ## Configurazione Obsidian 
-![netbeans-showcase](assets/netbeans.png)
-Copiare il contenuto della directory [Obsidian/](Obsidian/) all'interno della cartella Vault
+![obsidian-showcase](assets/obsidian.png)
+Copiare il contenuto della directory [Obsidian](Obsidian/) all'interno della cartella Vault
